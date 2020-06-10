@@ -1,0 +1,3 @@
+C:/Users/Сонечка/Desktop/rtKorotkova/out/build/x64-Debug/CMakeFiles/rtKorotkova.dir
+C:/Users/Сонечка/Desktop/rtKorotkova/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Сонечка/Desktop/rtKorotkova/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
