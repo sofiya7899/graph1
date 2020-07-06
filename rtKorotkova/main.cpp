@@ -7,6 +7,7 @@
 #include "Camera.h"
 #include "LightSource.h"
 
+
 using namespace HydraLiteMath;
 
 struct Scene {
@@ -62,7 +63,7 @@ void test_scene1()
   auto sph2  = std::make_shared<Sphere> (float3(-6.0f, +1.5f, +0.0f), 2,   new Defuse(float3(0.4f, 0.1f, 1.0f)));
   auto sph3 = std::make_shared<Sphere>(float3(+2.0f, +9.0f, +0.0f), 0.5, new Defuse(float3(0.2f, 0.4f, 0.4f)));
   auto par = std::make_shared<Parallel>(float3(+2.0f, +1.0f, +0.0f), float3(+5.0f, +3.0f, +6.0f), new Defuse(float3(0.20f, 0.32f, 0.54f)));
-  auto tr = std::make_shared<Triangle>(float3(+1.0f, 1.0f, +5.0f), float3(+3.0f, +6.0f, +2.0f), float3(+4.0f, +3.0f, +0.0f), new Defuse(float3(0.5f, 0.5f, 0.5f)));
+  auto tr = std::make_shared<Disk>(float3(-2.0f, 8.0f, 2.0f), 2, float3(0.0f, +1.0f, +0.0f), new Defuse(float3(0.0f, 0.0f, 1.0f)));
   scene.geoObjects.push_back(plane1);
   scene.geoObjects.push_back(sph);
   scene.geoObjects.push_back(par);

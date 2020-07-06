@@ -1,8 +1,10 @@
 # ninja log v5
-20	1178	613497237	CMakeFiles/rtKorotkova.dir/LightSource.cpp.obj	241aec25a96bcab1
-1	1392	613497238	CMakeFiles/rtKorotkova.dir/Geometry.cpp.obj	8f1da07f29e20667
-7	1472	613497238	CMakeFiles/rtKorotkova.dir/Material.cpp.obj	33347593740a89e8
-14	2018	613497238	CMakeFiles/rtKorotkova.dir/Camera.cpp.obj	b28ec7385bdcc82f
-44	2033	613497238	CMakeFiles/rtKorotkova.dir/rtracer.cpp.obj	bea104f9314028d9
-41	2246	613497239	CMakeFiles/rtKorotkova.dir/main.cpp.obj	10e8274ac79a4cd6
-2247	3244	613497240	rtKorotkova.exe	19b203d6639cfe3f
+13	1184	615737030	CMakeFiles/rtKorotkova.dir/Material.cpp.obj	33347593740a89e8
+21	1190	615737030	CMakeFiles/rtKorotkova.dir/LightSource.cpp.obj	241aec25a96bcab1
+4	1329	615737030	CMakeFiles/rtKorotkova.dir/Geometry.cpp.obj	8f1da07f29e20667
+10	1920	615737031	CMakeFiles/rtKorotkova.dir/Camera.cpp.obj	b28ec7385bdcc82f
+25	2088	615737031	CMakeFiles/rtKorotkova.dir/rtracer.cpp.obj	bea104f9314028d9
+17	2267	615737031	CMakeFiles/rtKorotkova.dir/main.cpp.obj	10e8274ac79a4cd6
+2269	3301	615737032	rtKorotkova.exe	19b203d6639cfe3f
+0	1474	615737148	CMakeFiles/rtKorotkova.dir/main.cpp.obj	10e8274ac79a4cd6
+1476	1906	615737148	rtKorotkova.exe	19b203d6639cfe3f

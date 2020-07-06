@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Сонечка/Desktop/rtKorotkova/out/build/x64-Debug"
+			"value" : "c:/graph1/rtKorotkova/out/build/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Сонечка/Desktop/rtKorotkova"
+			"value" : "C:/graph1/rtKorotkova"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/Сонечка/Desktop/rtKorotkova/out/install/x64-Debug"
+			"value" : "C:/graph1/rtKorotkova/out/install/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Сонечка/Desktop/rtKorotkova/out/build/x64-Debug"
+			"value" : "C:/graph1/rtKorotkova/out/build/x64-Debug"
 		},
 		{
 			"name" : "rtKorotkova_SOURCE_DIR",
@@ -1047,7 +1047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Сонечка/Desktop/rtKorotkova"
+			"value" : "C:/graph1/rtKorotkova"
 		}
 	],
 	"kind" : "cache",

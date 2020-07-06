@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Сонечка/Desktop/rtKorotkova
+# Install script for directory: C:/graph1/rtKorotkova
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Сонечка/Desktop/rtKorotkova/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/graph1/rtKorotkova/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Сонечка/Desktop/rtKorotkova/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/graph1/rtKorotkova/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
